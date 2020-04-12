@@ -116,7 +116,7 @@ def run_solution_directly(solution_filepath: str) -> None:
 	challenge = import_challenge(challenge_directory, challenge_directory.split('/')[-1])
 	solution = next(solution for solution in challenge.solutions if solution.username == username)
 
-	test_solvers(challenge.testcase, solution.solvers)
+	test_solvers(challenge.testcase, solution.solvers, 'verbose' in sys.argv)
 
 
 def main(verbose=False):

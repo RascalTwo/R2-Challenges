@@ -1,5 +1,11 @@
 # ChangeLog
 
+## 1.1.1
+
+### Added
+
+- `verbose` argument detection during direct and module execution
+
 ## 1.1.0
 
 ### Added
