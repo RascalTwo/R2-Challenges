@@ -126,7 +126,7 @@ def main(verbose=False):
 
 	for directory in sorted(os.listdir('challenges')):
 		challenge = import_challenge(os.path.join('challenges', directory), int(directory))
-		print(f'Challenge #{challenge.number} - {challenge.name}')
+		print(f'\nChallenge #{challenge.number} - {challenge.name}')
 
 		for solutions in challenge.solutions:
 			# Username's solution OR Username's X solutions

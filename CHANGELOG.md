@@ -1,5 +1,11 @@
 # ChangeLog
 
+## 1.0.2
+
+### Added
+
+- Newline before challenge header
+
 ## 1.0.1
 
 ### Added
