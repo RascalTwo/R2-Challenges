@@ -1,5 +1,11 @@
 # ChangeLog
 
+## 1.1.0
+
+### Added
+
+- Challenge #02
+
 ## 1.0.2
 
 ### Added
