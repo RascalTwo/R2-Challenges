@@ -1,5 +1,11 @@
 # ChangeLog
 
+## 1.1.2
+
+### Added
+
+- `RascalTwo` Challenge #02 solution
+
 ## 1.1.1
 
 ### Added
